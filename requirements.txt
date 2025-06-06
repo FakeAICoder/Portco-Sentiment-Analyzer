@@ -1,0 +1,4 @@
+feedparser
+openai
+tweepy
+Django>=5.2
